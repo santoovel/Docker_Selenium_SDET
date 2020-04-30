@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34757" started-at="2020-04-11T16:05:21Z" finished-at="2020-04-11T16:05:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34757" started-at="2020-04-11T16:05:21Z" finished-at="2020-04-11T16:05:56Z">
+      <class name="com.docker.SetUp_DockerGrid">
+        <test-method status="PASS" signature="startDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@783e6358]" name="startDockerGrid" is-config="true" duration-ms="15031" started-at="2020-04-11T21:35:21Z" finished-at="2020-04-11T21:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDockerGrid -->
+        <test-method status="PASS" signature="stopDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@783e6358]" name="stopDockerGrid" is-config="true" duration-ms="5010" started-at="2020-04-11T21:35:51Z" finished-at="2020-04-11T21:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDockerGrid -->
+      </class> <!-- com.docker.SetUp_DockerGrid -->
+      <class name="com.docker.ChromeTest3">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.docker.ChromeTest3@17550481]" name="test3" duration-ms="7530" started-at="2020-04-11T21:35:36Z" finished-at="2020-04-11T21:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.docker.ChromeTest3 -->
+      <class name="com.docker.FirefoxTest4">
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.docker.FirefoxTest4@735f7ae5]" name="test4" duration-ms="14685" started-at="2020-04-11T21:35:36Z" finished-at="2020-04-11T21:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.docker.FirefoxTest4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
