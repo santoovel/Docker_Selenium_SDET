@@ -17,7 +17,7 @@ public class ChromeTest2 {
 
 		driver.get("https://www.google.com/");
 		
-		System.out.println("Page title is : ===> "+ driver.getTitle());
+		System.out.println("Google Page title is : ===> "+ driver.getTitle());
 		
 		driver.quit();
 	}
