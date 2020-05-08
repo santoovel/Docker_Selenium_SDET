@@ -16,9 +16,9 @@ public class FirefoxTest4 {
 		
 		RemoteWebDriver driver = new RemoteWebDriver(url,dc);
 
-		driver.get("https://www.amazon.com/");
+		driver.get("https://www.amazon.in/");
 		
-		System.out.println("Page title is : ===> "+ driver.getTitle());
+		System.out.println("Amazon Page title is : ===> "+ driver.getTitle());
 		
 		driver.quit();
 	}

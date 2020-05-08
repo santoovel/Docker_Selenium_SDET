@@ -17,7 +17,7 @@ public class ChromeTest3 {
 
 		driver.get("https://www.flipkart.com/");
 		
-		System.out.println("Page title is : ===> "+ driver.getTitle());
+		System.out.println("Flipkart Page title is : ===> "+ driver.getTitle());
 		
 		driver.quit();
 	}
