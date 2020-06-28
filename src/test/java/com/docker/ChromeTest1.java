@@ -17,7 +17,7 @@ public class ChromeTest1 {
 
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		
-		System.out.println("orangehrmlive title is : ===> "+ driver.getTitle());
+		System.out.println("Orangehrmlive title is : ===> "+ driver.getTitle());
 		
 		driver.quit();
 	}

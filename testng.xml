@@ -6,10 +6,9 @@
     
     
     <class name="com.docker.SetUp_DockerGrid"/>
-    
-      <!-- 
+   
       <class name="com.docker.ChromeTest1"/> 
-     <class name="com.docker.ChromeTest2"/> -->
+     <class name="com.docker.ChromeTest2"/> 
     
       <class name="com.docker.ChromeTest3"/>
       <class name="com.docker.FirefoxTest4"/>

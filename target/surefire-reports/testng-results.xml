@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35577" started-at="2020-05-06T04:18:21Z" finished-at="2020-05-06T04:18:57Z">
+  <suite name="Suite" duration-ms="36917" started-at="2020-06-26T10:22:40Z" finished-at="2020-06-26T10:23:16Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="35577" started-at="2020-05-06T04:18:21Z" finished-at="2020-05-06T04:18:57Z">
+    <test name="Test" duration-ms="36917" started-at="2020-06-26T10:22:40Z" finished-at="2020-06-26T10:23:16Z">
       <class name="com.docker.SetUp_DockerGrid">
-        <test-method status="PASS" signature="startDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@6fb554cc]" name="startDockerGrid" is-config="true" duration-ms="15049" started-at="2020-05-06T04:18:21Z" finished-at="2020-05-06T04:18:36Z">
+        <test-method status="PASS" signature="startDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@6fb554cc]" name="startDockerGrid" is-config="true" duration-ms="15029" started-at="2020-06-26T10:22:40Z" finished-at="2020-06-26T10:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDockerGrid -->
-        <test-method status="PASS" signature="stopDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@6fb554cc]" name="stopDockerGrid" is-config="true" duration-ms="5010" started-at="2020-05-06T04:18:52Z" finished-at="2020-05-06T04:18:57Z">
+        <test-method status="PASS" signature="stopDockerGrid()[pri:0, instance:com.docker.SetUp_DockerGrid@6fb554cc]" name="stopDockerGrid" is-config="true" duration-ms="5027" started-at="2020-06-26T10:23:11Z" finished-at="2020-06-26T10:23:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDockerGrid -->
       </class> <!-- com.docker.SetUp_DockerGrid -->
       <class name="com.docker.ChromeTest3">
-        <test-method status="PASS" signature="test3()[pri:0, instance:com.docker.ChromeTest3@614c5515]" name="test3" duration-ms="9516" started-at="2020-05-06T04:18:36Z" finished-at="2020-05-06T04:18:46Z">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.docker.ChromeTest3@614c5515]" name="test3" duration-ms="9472" started-at="2020-06-26T10:22:55Z" finished-at="2020-06-26T10:23:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
       </class> <!-- com.docker.ChromeTest3 -->
       <class name="com.docker.FirefoxTest4">
-        <test-method status="PASS" signature="test4()[pri:0, instance:com.docker.FirefoxTest4@77b52d12]" name="test4" duration-ms="15441" started-at="2020-05-06T04:18:36Z" finished-at="2020-05-06T04:18:52Z">
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.docker.FirefoxTest4@77b52d12]" name="test4" duration-ms="16816" started-at="2020-06-26T10:22:55Z" finished-at="2020-06-26T10:23:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
